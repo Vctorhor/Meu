@@ -1,0 +1,93 @@
+.principal{
+	background: #0a4b70;
+	padding: 2%;
+}
+
+.imagem1{
+	width: 100%;
+}
+
+header{
+	background: #BBBBBB;
+    padding: 10px 0;
+}
+
+.tp{
+	color: #07a857;
+	padding-left: 20px;
+}
+
+.tt {
+	font-size: 45px;
+	text-align: center;
+	background: #726d6da4;
+}
+.caixa {
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+nav ul{
+	list-style: none;
+    position: absolute;
+    top: 120px;
+    right: 0;
+	text-align: center;
+}
+
+nav li {
+	display: inline-block;
+	margin:0 0 0 15px;
+	}
+
+nav a {
+    text-transform: uppercase;
+    color:black;
+    font-weight: bold;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+p {
+	text-align: center; font-size: 30px;
+}
+
+
+em strong {
+	color:#d40f0f
+}
+
+#objetivo {
+	font-size: 20px;
+}
+
+#Fundo{
+	width: 100%;
+	display: inline-block;
+	height: 27%;
+}
+
+#Opcoes{
+	font-size: 40px;
+	background: #FFFFFF;
+	text-align: center;
+	padding: 20px;
+}
+
+Ul{
+	font-size: 20px;
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin-right: 7%;
+}
+
+.itens{
+	font-style: italic;
+}
+
+.imagem-opcoes{
+	width: 50%;
+}
+

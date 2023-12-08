@@ -1,0 +1,109 @@
+header{
+    background: #BBBBBB;
+    padding: 10px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+
+nav li {
+display: inline;
+margin:0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color:black;
+    font-weight: bold;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+.musicas{
+    width: 1400px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+.musicas li {
+display: inline-block;
+text-align: center;
+width: 30%;
+vertical-align: top;
+margin: 1% 1%;
+padding: 2%;
+box-sizing: border-box;
+border: 2px solid black;
+border-radius: 5px;
+}
+
+nav a:hover{
+color: orange;
+text-decoration: underline;
+}
+
+ul li:hover{
+    color:orange;
+    border-color: orange;
+    text-decoration: underline;
+}
+ul li:active{
+    color:green;
+    border-color: green;
+}
+
+ul li:hover h2{
+font-size: 28px;
+}
+
+.musicas h2{
+    font-size: 25px;
+    padding: 2%;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.autor{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.p2{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+footer{
+    text-align: center;
+    padding: 40px 0 0;
+    margin-bottom: 20px;
+}
+
+.Copyright{
+font-size: 19px;
+margin-top: 10px;
+}
+
+.musicas li a {
+    color:inherit;
+    display: block;
+}
+
+.saof{
+width: 209px;
+}
+
+.saof2{
+    width: 364px;
+    scale: 90%;
+}
